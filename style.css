@@ -90,7 +90,7 @@ a{
   .bottom-container{
     background-color: #66BFBF;
     width: 100%;
-    height:150px;
+    height:80px;
     padding-top: 40px;
     
   }
@@ -100,4 +100,13 @@ a{
 .footer-link{
     color: white;
     padding: 15px;
+}
+.intro{
+    width: 39%;
+    margin: auto;
+    padding-bottom:20px;
+}
+.invitation{
+    width: 60%;
+    margin: 0 auto 30px auto;
 }
